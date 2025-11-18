@@ -61,7 +61,7 @@ El proyecto requiere librerías externas para la gestión de datos (Excel).
 
 1.  **Clona el repositorio**
     ```bash
-    git clone [TU_REPO_URL]
+    git clone https://github.com/LSCF84/PDF-Renamer-Security-Suite
     cd PDF-Renamer-Security-Suite
     ```
 2.  **Instala dependencias**
