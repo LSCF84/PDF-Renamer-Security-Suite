@@ -1,7 +1,7 @@
 
 <div align="center">
    
-# ⚙️ PDF Renamer Security Suite
+# ⚙️ PDF Renamer Security Suite (PDF-RSS)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%2B-success)](https://www.microsoft.com/windows)
